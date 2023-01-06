@@ -17,7 +17,7 @@
 
 ### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&hidden=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangdh2001&langs_count=6&hide=Shell,Roff,BatchFile,Dockerfile,CMake,C,HTML,Css,C%2B%2B,C%23,Pug)](https://github.com/anuraghazra/github-readme-stats)
 
 [![hoangdh2001 GitHub Streak](https://streak-stats.demolab.com?user=hoangdh2001&theme=dark)](https://git.io/streak-stats)
 
