@@ -1,5 +1,24 @@
 ### Hi there 👋
 
-![Most Used Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=hoangdh2001&theme=default&hide=Shell,Roff,BatchFile,Dockerfile,CMake,C,HTML,JavaScript,Css,C%2B%2B,C%23)
-<br>
-[![DoHuyHoang-HUB Github Stats](https://github-readme-stats.vercel.app/api?username=hoangdh2001&count_private=true&theme=default&show_icons=true)](https://github.com/DoHuyHoang-HUB)
+- 📹 I'm also learning Flutter
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dohuyhoang2001/) for work!
+
+<div>
+    I'm best reached via <a href="mailto:dohuyhoang.se.dev@gmail.com"/>email</a>. I'm always open to interesting conversations and collaboration.
+</div>
+
+### Languages & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,swift,js,ts,flutter,react,spring,nodejs,docker" />
+  </a>
+</p>
+
+### Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangdh2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![hoangdh2001 GitHub Streak](https://streak-stats.demolab.com?user=hoangdh2001&theme=dark)](https://git.io/streak-stats)
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" />
