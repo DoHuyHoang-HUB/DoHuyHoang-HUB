@@ -17,7 +17,7 @@
 
 ### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangdh2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangdh2001&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![hoangdh2001 GitHub Streak](https://streak-stats.demolab.com?user=hoangdh2001&theme=dark)](https://git.io/streak-stats)
 
